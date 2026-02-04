@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CIP STEM Intelligence</title>
+  <link rel="stylesheet" href="./css/app.css" />
+</head>
+
+<body>
+  <main class="container">
+    <header class="header">
+      <h1>CIP STEM Intelligence</h1>
+      <p class="sub">
+        Search NCES CIP 2020 definitions + DHS STEM eligibility overlay.
+      </p>
+    </header>
+
+    <section class="controls">
+      <input id="q" class="search" type="text" placeholder="Try: 14 | 14.09 | 14.0900 | computer engineering" />
+      <label class="stemOnly">
+        <input id="stemOnly" type="checkbox" />
+        STEM only
+      </label>
+      <button id="btnClear" class="btn" type="button">Clear</button>
+    </section>
+
+    <section class="status">
+      <div id="statusText" class="statusText">Loading index…</div>
+      <div id="metaText" class="metaText"></div>
+    </section>
+
+    <section id="results" class="results"></section>
+
+    <footer class="footer">
+      <small>
+        Data sources: NCES CIP 2020 + DHS/ICE STEM list. Built as an open-source community tool.
+      </small>
+    </footer>
+  </main>
+
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>

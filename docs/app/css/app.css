@@ -1,0 +1,29 @@
+:root { font-family: system-ui, Arial, sans-serif; }
+body { margin: 0; background: #fff; color: #111; }
+.container { max-width: 980px; margin: 40px auto; padding: 0 16px; }
+.header h1 { margin: 0 0 8px; font-size: 32px; }
+.sub { margin: 0; color: #444; }
+
+.controls { display: flex; gap: 12px; align-items: center; margin: 20px 0; flex-wrap: wrap; }
+.search { flex: 1; min-width: 280px; padding: 10px 12px; font-size: 16px; }
+.stemOnly { display: flex; gap: 8px; align-items: center; }
+.btn { padding: 10px 12px; cursor: pointer; }
+
+.status { margin: 8px 0 18px; }
+.statusText { font-weight: 600; }
+.metaText { color: #444; margin-top: 6px; font-size: 14px; }
+
+.results .card {
+  border: 1px solid #e5e5e5; border-radius: 10px;
+  padding: 12px 14px; margin: 10px 0;
+}
+.cardTop { display: flex; gap: 12px; align-items: baseline; flex-wrap: wrap; }
+.cip { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-weight: 700; }
+.badge { font-size: 12px; padding: 3px 8px; border-radius: 999px; border: 1px solid #ddd; }
+.badge.stem { border-color: #1f7a1f; color: #1f7a1f; }
+
+.title { font-weight: 700; margin-top: 8px; }
+.def { margin-top: 6px; color: #222; line-height: 1.4; }
+.small { margin-top: 8px; font-size: 13px; color: #555; }
+
+.footer { margin-top: 30px; color: #666; }
