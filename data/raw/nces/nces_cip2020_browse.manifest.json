@@ -1,0 +1,8 @@
+{
+  "requested_url": "https://nces.ed.gov/ipeds/cipcode/browse.aspx?y=56",
+  "final_url": "https://nces.ed.gov/ipeds/cipcode/browse.aspx?y=56",
+  "sha256": "f4963a49fbb1b34b9e3eb2549ca59c36f69fbf676031edbc2c3fb95512d8223d",
+  "bytes": 475323,
+  "fetched_utc": "2026-02-04T02:50:23.181999+00:00",
+  "note": "NCES CIP 2020 browse listing (y=56)"
+}
