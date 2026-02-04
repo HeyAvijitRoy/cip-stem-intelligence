@@ -1,0 +1,9 @@
+{
+  "file": "data/processed/cip_stem_index.json",
+  "sha256": "a52d2ae2bfb5b26b1ba262f98314e8aad1b160ecd77488b45ca190f705e2d0cd",
+  "bytes": 800369,
+  "generated_utc": "2026-02-04T05:14:07.995785+00:00",
+  "record_count": 2649,
+  "stem_true_count": 540,
+  "source_overlay_sha256": "234f2c509c398361416a31d774348ed1c4a39550e9e34d079eb01e09e33b9e7c"
+}

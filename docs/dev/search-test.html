@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>CIP STEM Intelligence - Search Test</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 900px; margin: 24px auto; padding: 0 12px; }
+    input { width: 100%; padding: 10px; font-size: 16px; }
+    label { display: inline-flex; align-items: center; gap: 8px; margin: 10px 0; }
+    pre { background: #111; color: #0f0; padding: 12px; overflow: auto; }
+    .meta { font-size: 14px; color: #555; margin-bottom: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Search Test (Dev)</h1>
+  <div class="meta" id="meta"></div>
+
+  <input id="q" placeholder="Try: 14 | 14.09 | 14.0900 | computer engineering" />
+  <label>
+    <input id="stemOnly" type="checkbox" />
+    STEM only
+  </label>
+
+  <pre id="out">Loading...</pre>
+
+  <script type="module">
+    import { loadIndex } from "../js/loadIndex.js";
+    import { buildQueryEngine } from "../js/search.js";
+
+    const qEl = document.getElementById("q");
+    const stemEl = document.getElementById("stemOnly");
+    const outEl = document.getElementById("out");
+    const metaEl = document.getElementById("meta");
+
+    const { meta, records } = await loadIndex({ path: "../data/processed/cip_stem_index.json" });
+    metaEl.textContent = `Loaded records: ${records.length} | STEM true: ${meta.stem_true_count} | Generated: ${meta.generated_utc}`;
+
+    const engine = buildQueryEngine(records);
+
+    function render() {
+      const q = qEl.value;
+      const stemOnly = stemEl.checked;
+      const results = engine.search({ q, stemOnly, limit: 30 });
+      outEl.textContent = JSON.stringify(results, null, 2);
+    }
+
+    qEl.addEventListener("input", render);
+    stemEl.addEventListener("change", render);
+
+    render();
+  </script>
+</body>
+</html>
