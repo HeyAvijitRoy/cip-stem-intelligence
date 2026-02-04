@@ -1,0 +1,2170 @@
+{
+  "source": {
+    "publisher": "DHS/ICE",
+    "type": "stem_designated_degree_program_list",
+    "pdf_file": "data/raw/dhs/stem-list-latest.pdf"
+  },
+  "records": [
+    {
+      "cip": "01.0308",
+      "title_from_pdf": "Agroecology and Sustainable Agriculture."
+    },
+    {
+      "cip": "01.0901",
+      "title_from_pdf": "Animal Sciences, General."
+    },
+    {
+      "cip": "01.0902",
+      "title_from_pdf": "Agricultural Animal Breeding."
+    },
+    {
+      "cip": "01.0903",
+      "title_from_pdf": "Animal Health."
+    },
+    {
+      "cip": "01.0904",
+      "title_from_pdf": "Animal Nutrition."
+    },
+    {
+      "cip": "01.0905",
+      "title_from_pdf": "Dairy Science."
+    },
+    {
+      "cip": "01.0906",
+      "title_from_pdf": "Livestock Management."
+    },
+    {
+      "cip": "01.0907",
+      "title_from_pdf": "Poultry Science."
+    },
+    {
+      "cip": "01.0999",
+      "title_from_pdf": "Animal Sciences, Other."
+    },
+    {
+      "cip": "01.1001",
+      "title_from_pdf": "Food Science."
+    },
+    {
+      "cip": "01.1002",
+      "title_from_pdf": "Food Technology and Processing."
+    },
+    {
+      "cip": "01.1099",
+      "title_from_pdf": "Food Science and Technology, Other."
+    },
+    {
+      "cip": "01.1101",
+      "title_from_pdf": "Plant Sciences, General."
+    },
+    {
+      "cip": "01.1102",
+      "title_from_pdf": "Agronomy and Crop Science."
+    },
+    {
+      "cip": "01.1103",
+      "title_from_pdf": "Horticultural Science."
+    },
+    {
+      "cip": "01.1104",
+      "title_from_pdf": "Agricultural and Horticultural Plant Breeding."
+    },
+    {
+      "cip": "01.1105",
+      "title_from_pdf": "Plant Protection and Integrated Pest Management."
+    },
+    {
+      "cip": "01.1106",
+      "title_from_pdf": "Range Science and Management."
+    },
+    {
+      "cip": "01.1199",
+      "title_from_pdf": "Plant Sciences, Other."
+    },
+    {
+      "cip": "01.1201",
+      "title_from_pdf": "Soil Science and Agronomy, General."
+    },
+    {
+      "cip": "01.1202",
+      "title_from_pdf": "Soil Chemistry and Physics."
+    },
+    {
+      "cip": "01.1203",
+      "title_from_pdf": "Soil Microbiology."
+    },
+    {
+      "cip": "01.1299",
+      "title_from_pdf": "Soil Sciences, Other."
+    },
+    {
+      "cip": "01.8105",
+      "title_from_pdf": "Veterinary Anatomy."
+    },
+    {
+      "cip": "01.8106",
+      "title_from_pdf": "Veterinary Infectious Diseases."
+    },
+    {
+      "cip": "01.8107",
+      "title_from_pdf": "Veterinary Microbiology and Immunobiology."
+    },
+    {
+      "cip": "01.8108",
+      "title_from_pdf": "Veterinary Pathology and Pathobiology."
+    },
+    {
+      "cip": "01.8109",
+      "title_from_pdf": "Veterinary Physiology."
+    },
+    {
+      "cip": "01.8110",
+      "title_from_pdf": "Veterinary Preventive Medicine, Epidemiology, and Public Health."
+    },
+    {
+      "cip": "01.8111",
+      "title_from_pdf": "Veterinary Toxicology and Pharmacology."
+    },
+    {
+      "cip": "03.0101",
+      "title_from_pdf": "Natural Resources/Conservation, General."
+    },
+    {
+      "cip": "03.0103",
+      "title_from_pdf": "Environmental Studies."
+    },
+    {
+      "cip": "03.0104",
+      "title_from_pdf": "Environmental Science."
+    },
+    {
+      "cip": "03.0199",
+      "title_from_pdf": "Natural Resources Conservation and Research, Other."
+    },
+    {
+      "cip": "03.0204",
+      "title_from_pdf": "Environmental/Natural Resource Economics."
+    },
+    {
+      "cip": "03.0205",
+      "title_from_pdf": "Water, Wetlands, and Marine Resources Management."
+    },
+    {
+      "cip": "03.0210",
+      "title_from_pdf": "Bioenergy."
+    },
+    {
+      "cip": "03.0501",
+      "title_from_pdf": "Forestry, General."
+    },
+    {
+      "cip": "03.0502",
+      "title_from_pdf": "Forest Sciences and Biology."
+    },
+    {
+      "cip": "03.0508",
+      "title_from_pdf": "Urban Forestry."
+    },
+    {
+      "cip": "03.0509",
+      "title_from_pdf": "Technology/Technician."
+    },
+    {
+      "cip": "03.0510",
+      "title_from_pdf": "Forest Resources Production and Management."
+    },
+    {
+      "cip": "03.0601",
+      "title_from_pdf": "Wildlife, Fish and Wildlands Science and Management."
+    },
+    {
+      "cip": "04.0601",
+      "title_from_pdf": "Landscape Architecture."
+    },
+    {
+      "cip": "04.0902",
+      "title_from_pdf": "Architectural and Building Sciences/Technology."
+    },
+    {
+      "cip": "09.0702",
+      "title_from_pdf": "Digital Communication and Media/Multimedia."
+    },
+    {
+      "cip": "10.0304",
+      "title_from_pdf": "Effects."
+    },
+    {
+      "cip": "11.0101",
+      "title_from_pdf": "Computer and Information Sciences, General."
+    },
+    {
+      "cip": "11.0102",
+      "title_from_pdf": "Artificial Intelligence."
+    },
+    {
+      "cip": "11.0103",
+      "title_from_pdf": "Information Technology."
+    },
+    {
+      "cip": "11.0104",
+      "title_from_pdf": "Informatics."
+    },
+    {
+      "cip": "11.0105",
+      "title_from_pdf": "Human-Centered Technology Design."
+    },
+    {
+      "cip": "11.0199",
+      "title_from_pdf": "Computer and Information Sciences, Other."
+    },
+    {
+      "cip": "11.0201",
+      "title_from_pdf": "Computer Programming/Programmer, General."
+    },
+    {
+      "cip": "11.0202",
+      "title_from_pdf": "Computer Programming, Specific Applications."
+    },
+    {
+      "cip": "11.0203",
+      "title_from_pdf": "Computer Programming, Vendor/Product Certification."
+    },
+    {
+      "cip": "11.0299",
+      "title_from_pdf": "Computer Programming, Other."
+    },
+    {
+      "cip": "11.0301",
+      "title_from_pdf": "Data Processing and Data Processing Technology/ Technician."
+    },
+    {
+      "cip": "11.0401",
+      "title_from_pdf": "Information Science/Studies."
+    },
+    {
+      "cip": "11.0501",
+      "title_from_pdf": "Computer Systems Analysis/Analyst."
+    },
+    {
+      "cip": "11.0701",
+      "title_from_pdf": "Computer Science."
+    },
+    {
+      "cip": "11.0801",
+      "title_from_pdf": "Web Page, Digital/Multimedia and Information Resources Design."
+    },
+    {
+      "cip": "11.0802",
+      "title_from_pdf": "Data Modeling/Warehousing and Database Administration."
+    },
+    {
+      "cip": "11.0803",
+      "title_from_pdf": "Computer Graphics."
+    },
+    {
+      "cip": "11.0804",
+      "title_from_pdf": "Modeling, Virtual Environments and Simulation."
+    },
+    {
+      "cip": "11.0899",
+      "title_from_pdf": "Computer Software and Media Applications, Other."
+    },
+    {
+      "cip": "11.0901",
+      "title_from_pdf": "Computer Systems Networking and Telecommunications."
+    },
+    {
+      "cip": "11.0902",
+      "title_from_pdf": "Cloud Computing."
+    },
+    {
+      "cip": "11.1001",
+      "title_from_pdf": "Network and System Administration/Administrator."
+    },
+    {
+      "cip": "11.1002",
+      "title_from_pdf": "System, Networking, and LAN/WAN Management/Manager."
+    },
+    {
+      "cip": "11.1003",
+      "title_from_pdf": "Assurance."
+    },
+    {
+      "cip": "11.1004",
+      "title_from_pdf": "Web/Multimedia Management and Webmaster."
+    },
+    {
+      "cip": "11.1005",
+      "title_from_pdf": "Information Technology Project Management."
+    },
+    {
+      "cip": "11.1006",
+      "title_from_pdf": "Computer Support Specialist."
+    },
+    {
+      "cip": "11.1099",
+      "title_from_pdf": "Management, Other."
+    },
+    {
+      "cip": "13.0501",
+      "title_from_pdf": "Educational/Instructional Technology."
+    },
+    {
+      "cip": "13.0601",
+      "title_from_pdf": "Educational Evaluation and Research."
+    },
+    {
+      "cip": "13.0603",
+      "title_from_pdf": "Educational Statistics and Research Methods."
+    },
+    {
+      "cip": "13.0608",
+      "title_from_pdf": "Institutional Research."
+    },
+    {
+      "cip": "14.0000",
+      "title_from_pdf": "ENGINEERING."
+    },
+    {
+      "cip": "14.0100",
+      "title_from_pdf": "Engineering, General."
+    },
+    {
+      "cip": "14.0101",
+      "title_from_pdf": "Engineering, General."
+    },
+    {
+      "cip": "14.0102",
+      "title_from_pdf": "Pre-Engineering."
+    },
+    {
+      "cip": "14.0103",
+      "title_from_pdf": "Applied Engineering."
+    },
+    {
+      "cip": "14.0200",
+      "title_from_pdf": "Aerospace, Aeronautical, and Astronautical/Space Engineering."
+    },
+    {
+      "cip": "14.0201",
+      "title_from_pdf": "General."
+    },
+    {
+      "cip": "14.0202",
+      "title_from_pdf": "Astronautical Engineering."
+    },
+    {
+      "cip": "14.0299",
+      "title_from_pdf": "Other."
+    },
+    {
+      "cip": "14.0300",
+      "title_from_pdf": "Agricultural Engineering."
+    },
+    {
+      "cip": "14.0301",
+      "title_from_pdf": "Agricultural Engineering."
+    },
+    {
+      "cip": "14.0400",
+      "title_from_pdf": "Architectural Engineering."
+    },
+    {
+      "cip": "14.0401",
+      "title_from_pdf": "Architectural Engineering."
+    },
+    {
+      "cip": "14.0500",
+      "title_from_pdf": "Biomedical/Medical Engineering."
+    },
+    {
+      "cip": "14.0501",
+      "title_from_pdf": "Bioengineering and Biomedical Engineering."
+    },
+    {
+      "cip": "14.0600",
+      "title_from_pdf": "Ceramic Sciences and Engineering."
+    },
+    {
+      "cip": "14.0601",
+      "title_from_pdf": "Ceramic Sciences and Engineering."
+    },
+    {
+      "cip": "14.0700",
+      "title_from_pdf": "Chemical Engineering."
+    },
+    {
+      "cip": "14.0701",
+      "title_from_pdf": "Chemical Engineering."
+    },
+    {
+      "cip": "14.0702",
+      "title_from_pdf": "Chemical and Biomolecular Engineering."
+    },
+    {
+      "cip": "14.0799",
+      "title_from_pdf": "Chemical Engineering, Other."
+    },
+    {
+      "cip": "14.0800",
+      "title_from_pdf": "Civil Engineering."
+    },
+    {
+      "cip": "14.0801",
+      "title_from_pdf": "Civil Engineering, General."
+    },
+    {
+      "cip": "14.0802",
+      "title_from_pdf": "Geotechnical and Geoenvironmental Engineering."
+    },
+    {
+      "cip": "14.0803",
+      "title_from_pdf": "Structural Engineering."
+    },
+    {
+      "cip": "14.0804",
+      "title_from_pdf": "Transportation and Highway Engineering."
+    },
+    {
+      "cip": "14.0805",
+      "title_from_pdf": "Water Resources Engineering."
+    },
+    {
+      "cip": "14.0899",
+      "title_from_pdf": "Civil Engineering, Other."
+    },
+    {
+      "cip": "14.0900",
+      "title_from_pdf": "Computer Engineering."
+    },
+    {
+      "cip": "14.0901",
+      "title_from_pdf": "Computer Engineering, General."
+    },
+    {
+      "cip": "14.0902",
+      "title_from_pdf": "Computer Hardware Engineering."
+    },
+    {
+      "cip": "14.0903",
+      "title_from_pdf": "Computer Software Engineering."
+    },
+    {
+      "cip": "14.0999",
+      "title_from_pdf": "Computer Engineering, Other."
+    },
+    {
+      "cip": "14.1000",
+      "title_from_pdf": "Electrical, Electronics, and Communications Engineering."
+    },
+    {
+      "cip": "14.1001",
+      "title_from_pdf": "Electrical and Electronics Engineering."
+    },
+    {
+      "cip": "14.1003",
+      "title_from_pdf": "Laser and Optical Engineering."
+    },
+    {
+      "cip": "14.1004",
+      "title_from_pdf": "Telecommunications Engineering."
+    },
+    {
+      "cip": "14.1099",
+      "title_from_pdf": "Electrical, Electronics, and Communications Engineering, Other."
+    },
+    {
+      "cip": "14.1100",
+      "title_from_pdf": "Engineering Mechanics."
+    },
+    {
+      "cip": "14.1101",
+      "title_from_pdf": "Engineering Mechanics."
+    },
+    {
+      "cip": "14.1200",
+      "title_from_pdf": "Engineering Physics."
+    },
+    {
+      "cip": "14.1201",
+      "title_from_pdf": "Engineering Physics/Applied Physics."
+    },
+    {
+      "cip": "14.1300",
+      "title_from_pdf": "Engineering Science."
+    },
+    {
+      "cip": "14.1301",
+      "title_from_pdf": "Engineering Science."
+    },
+    {
+      "cip": "14.1400",
+      "title_from_pdf": "Environmental/Environmental Health Engineering."
+    },
+    {
+      "cip": "14.1401",
+      "title_from_pdf": "Environmental/Environmental Health Engineering."
+    },
+    {
+      "cip": "14.1800",
+      "title_from_pdf": "Materials Engineering."
+    },
+    {
+      "cip": "14.1801",
+      "title_from_pdf": "Materials Engineering."
+    },
+    {
+      "cip": "14.1900",
+      "title_from_pdf": "Mechanical Engineering."
+    },
+    {
+      "cip": "14.1901",
+      "title_from_pdf": "Mechanical Engineering."
+    },
+    {
+      "cip": "14.2000",
+      "title_from_pdf": "Metallurgical Engineering."
+    },
+    {
+      "cip": "14.2001",
+      "title_from_pdf": "Metallurgical Engineering."
+    },
+    {
+      "cip": "14.2100",
+      "title_from_pdf": "Mining and Mineral Engineering."
+    },
+    {
+      "cip": "14.2101",
+      "title_from_pdf": "Mining and Mineral Engineering."
+    },
+    {
+      "cip": "14.2200",
+      "title_from_pdf": "Naval Architecture and Marine Engineering."
+    },
+    {
+      "cip": "14.2201",
+      "title_from_pdf": "Naval Architecture and Marine Engineering."
+    },
+    {
+      "cip": "14.2300",
+      "title_from_pdf": "Nuclear Engineering."
+    },
+    {
+      "cip": "14.2301",
+      "title_from_pdf": "Nuclear Engineering."
+    },
+    {
+      "cip": "14.2400",
+      "title_from_pdf": "Ocean Engineering."
+    },
+    {
+      "cip": "14.2401",
+      "title_from_pdf": "Ocean Engineering."
+    },
+    {
+      "cip": "14.2500",
+      "title_from_pdf": "Petroleum Engineering."
+    },
+    {
+      "cip": "14.2501",
+      "title_from_pdf": "Petroleum Engineering."
+    },
+    {
+      "cip": "14.2700",
+      "title_from_pdf": "Systems Engineering."
+    },
+    {
+      "cip": "14.2701",
+      "title_from_pdf": "Systems Engineering."
+    },
+    {
+      "cip": "14.2800",
+      "title_from_pdf": "Textile Sciences and Engineering."
+    },
+    {
+      "cip": "14.2801",
+      "title_from_pdf": "Textile Sciences and Engineering."
+    },
+    {
+      "cip": "14.3200",
+      "title_from_pdf": "Polymer/Plastics Engineering."
+    },
+    {
+      "cip": "14.3201",
+      "title_from_pdf": "Polymer/Plastics Engineering."
+    },
+    {
+      "cip": "14.3300",
+      "title_from_pdf": "Construction Engineering."
+    },
+    {
+      "cip": "14.3301",
+      "title_from_pdf": "Construction Engineering."
+    },
+    {
+      "cip": "14.3400",
+      "title_from_pdf": "Forest Engineering."
+    },
+    {
+      "cip": "14.3401",
+      "title_from_pdf": "Forest Engineering."
+    },
+    {
+      "cip": "14.3500",
+      "title_from_pdf": "Industrial Engineering."
+    },
+    {
+      "cip": "14.3501",
+      "title_from_pdf": "Industrial Engineering."
+    },
+    {
+      "cip": "14.3600",
+      "title_from_pdf": "Manufacturing Engineering."
+    },
+    {
+      "cip": "14.3601",
+      "title_from_pdf": "Manufacturing Engineering."
+    },
+    {
+      "cip": "14.3700",
+      "title_from_pdf": "Operations Research."
+    },
+    {
+      "cip": "14.3701",
+      "title_from_pdf": "Operations Research."
+    },
+    {
+      "cip": "14.3800",
+      "title_from_pdf": "Surveying Engineering."
+    },
+    {
+      "cip": "14.3801",
+      "title_from_pdf": "Surveying Engineering."
+    },
+    {
+      "cip": "14.3900",
+      "title_from_pdf": "Geological/Geophysical Engineering."
+    },
+    {
+      "cip": "14.3901",
+      "title_from_pdf": "Geological/Geophysical Engineering."
+    },
+    {
+      "cip": "14.4000",
+      "title_from_pdf": "Paper Science and Engineering."
+    },
+    {
+      "cip": "14.4001",
+      "title_from_pdf": "Paper Science and Engineering."
+    },
+    {
+      "cip": "14.4100",
+      "title_from_pdf": "Electromechanical Engineering."
+    },
+    {
+      "cip": "14.4101",
+      "title_from_pdf": "Electromechanical Engineering."
+    },
+    {
+      "cip": "14.4200",
+      "title_from_pdf": "Mechatronics, Robotics, and Automation Engineering."
+    },
+    {
+      "cip": "14.4201",
+      "title_from_pdf": "Mechatronics, Robotics, and Automation Engineering."
+    },
+    {
+      "cip": "14.4300",
+      "title_from_pdf": "Biochemical Engineering."
+    },
+    {
+      "cip": "14.4301",
+      "title_from_pdf": "Biochemical Engineering."
+    },
+    {
+      "cip": "14.4400",
+      "title_from_pdf": "Engineering Chemistry."
+    },
+    {
+      "cip": "14.4401",
+      "title_from_pdf": "Engineering Chemistry."
+    },
+    {
+      "cip": "14.4500",
+      "title_from_pdf": "Biological/Biosystems Engineering."
+    },
+    {
+      "cip": "14.4501",
+      "title_from_pdf": "Biological/Biosystems Engineering."
+    },
+    {
+      "cip": "14.4700",
+      "title_from_pdf": "Electrical and Computer Engineering."
+    },
+    {
+      "cip": "14.4701",
+      "title_from_pdf": "Electrical and Computer Engineering."
+    },
+    {
+      "cip": "14.4800",
+      "title_from_pdf": "Energy Systems Engineering."
+    },
+    {
+      "cip": "14.4801",
+      "title_from_pdf": "Energy Systems Engineering, General."
+    },
+    {
+      "cip": "14.4802",
+      "title_from_pdf": "Power Plant Engineering."
+    },
+    {
+      "cip": "14.4899",
+      "title_from_pdf": "Energy Systems Engineering, Other."
+    },
+    {
+      "cip": "14.9900",
+      "title_from_pdf": "Engineering, Other."
+    },
+    {
+      "cip": "14.9999",
+      "title_from_pdf": "Engineering, Other."
+    },
+    {
+      "cip": "15.0000",
+      "title_from_pdf": "Engineering Technologies/Technicians, General."
+    },
+    {
+      "cip": "15.0101",
+      "title_from_pdf": "Architectural Engineering Technologies/Technicians."
+    },
+    {
+      "cip": "15.0201",
+      "title_from_pdf": "Civil Engineering Technologies/Technicians."
+    },
+    {
+      "cip": "15.0303",
+      "title_from_pdf": "Technology/Technician."
+    },
+    {
+      "cip": "15.0304",
+      "title_from_pdf": "Laser and Optical Technology/Technician."
+    },
+    {
+      "cip": "15.0305",
+      "title_from_pdf": "Telecommunications Technology/Technician."
+    },
+    {
+      "cip": "15.0306",
+      "title_from_pdf": "Integrated Circuit Design Technology/Technician."
+    },
+    {
+      "cip": "15.0399",
+      "title_from_pdf": "Electrical/Electronic Engineering Technologies/Technicians, Other."
+    },
+    {
+      "cip": "15.0401",
+      "title_from_pdf": "Biomedical Technology/Technician."
+    },
+    {
+      "cip": "15.0403",
+      "title_from_pdf": "Technology/Technician."
+    },
+    {
+      "cip": "15.0404",
+      "title_from_pdf": "Instrumentation Technology/Technician."
+    },
+    {
+      "cip": "15.0405",
+      "title_from_pdf": "Robotics Technology/Technician."
+    },
+    {
+      "cip": "15.0406",
+      "title_from_pdf": "Automation Engineer Technology/Technician."
+    },
+    {
+      "cip": "15.0407",
+      "title_from_pdf": "Mechatronics, Robotics, and Automation Engineering"
+    },
+    {
+      "cip": "15.0499",
+      "title_from_pdf": "Electromechanical Technologies/Technicians, Other."
+    },
+    {
+      "cip": "15.0501",
+      "title_from_pdf": "Technology/Technician."
+    },
+    {
+      "cip": "15.0506",
+      "title_from_pdf": "Recycling Technology/Technician."
+    },
+    {
+      "cip": "15.0507",
+      "title_from_pdf": "Environmental/Environmental Engineering Technology/Technician."
+    },
+    {
+      "cip": "15.0508",
+      "title_from_pdf": "Technology/Technician."
+    },
+    {
+      "cip": "15.0599",
+      "title_from_pdf": "Environmental Control Technologies/Technicians, Other."
+    },
+    {
+      "cip": "15.0607",
+      "title_from_pdf": "Plastics and Polymer Engineering Technology/Technician."
+    },
+    {
+      "cip": "15.0611",
+      "title_from_pdf": "Metallurgical Technology/Technician."
+    },
+    {
+      "cip": "15.0612",
+      "title_from_pdf": "Industrial Technology/Technician."
+    },
+    {
+      "cip": "15.0613",
+      "title_from_pdf": "Manufacturing Engineering Technology/Technician."
+    },
+    {
+      "cip": "15.0614",
+      "title_from_pdf": "Welding Engineering Technology/Technician."
+    },
+    {
+      "cip": "15.0615",
+      "title_from_pdf": "Chemical Engineering Technology/Technician."
+    },
+    {
+      "cip": "15.0616",
+      "title_from_pdf": "Semiconductor Manufacturing Technology/Technician."
+    },
+    {
+      "cip": "15.0617",
+      "title_from_pdf": "Composite Materials Technology/Technician."
+    },
+    {
+      "cip": "15.0699",
+      "title_from_pdf": "Industrial Production Technologies/Technicians, Other."
+    },
+    {
+      "cip": "15.0701",
+      "title_from_pdf": "Occupational Safety and Health Technology/Technician."
+    },
+    {
+      "cip": "15.0702",
+      "title_from_pdf": "Quality Control Technology/Technician."
+    },
+    {
+      "cip": "15.0703",
+      "title_from_pdf": "Industrial Safety Technology/Technician."
+    },
+    {
+      "cip": "15.0704",
+      "title_from_pdf": "Hazardous Materials Information Systems Technology/Technician."
+    },
+    {
+      "cip": "15.0799",
+      "title_from_pdf": "Quality Control and Safety Technologies/Technicians, Other."
+    },
+    {
+      "cip": "15.0801",
+      "title_from_pdf": "Aeronautical/Aerospace Engineering Technology/Technician."
+    },
+    {
+      "cip": "15.0803",
+      "title_from_pdf": "Automotive Engineering Technology/Technician."
+    },
+    {
+      "cip": "15.0805",
+      "title_from_pdf": "Mechanical/Mechanical Engineering Technology/Technician."
+    },
+    {
+      "cip": "15.0899",
+      "title_from_pdf": "Mechanical Engineering Related Technologies/Technicians, Other."
+    },
+    {
+      "cip": "15.0901",
+      "title_from_pdf": "Mining Technology/Technician."
+    },
+    {
+      "cip": "15.0903",
+      "title_from_pdf": "Petroleum Technology/Technician."
+    },
+    {
+      "cip": "15.0999",
+      "title_from_pdf": "Mining and Petroleum Technologies/Technicians, Other."
+    },
+    {
+      "cip": "15.1001",
+      "title_from_pdf": "Construction Engineering Technology/Technician."
+    },
+    {
+      "cip": "15.1102",
+      "title_from_pdf": "Surveying Technology/Surveying."
+    },
+    {
+      "cip": "15.1103",
+      "title_from_pdf": "Hydraulics and Fluid Power Technology/Technician."
+    },
+    {
+      "cip": "15.1199",
+      "title_from_pdf": "Engineering-Related Technologies/Technicians, Other."
+    },
+    {
+      "cip": "15.1201",
+      "title_from_pdf": "Computer Engineering Technology/Technician."
+    },
+    {
+      "cip": "15.1202",
+      "title_from_pdf": "Computer/Computer Systems Technology/Technician."
+    },
+    {
+      "cip": "15.1203",
+      "title_from_pdf": "Computer Hardware Technology/Technician."
+    },
+    {
+      "cip": "15.1204",
+      "title_from_pdf": "Computer Software Technology/Technician."
+    },
+    {
+      "cip": "15.1299",
+      "title_from_pdf": "Computer Engineering Technologies/Technicians, Other."
+    },
+    {
+      "cip": "15.1301",
+      "title_from_pdf": "Drafting and Design Technology/Technician, General."
+    },
+    {
+      "cip": "15.1302",
+      "title_from_pdf": "CAD/CADD Drafting and/or Design Technology/Technician."
+    },
+    {
+      "cip": "15.1303",
+      "title_from_pdf": "Architectural Drafting and Architectural CAD/CADD."
+    },
+    {
+      "cip": "15.1304",
+      "title_from_pdf": "Civil Drafting and Civil Engineering CAD/CADD."
+    },
+    {
+      "cip": "15.1305",
+      "title_from_pdf": "Electrical/Electronics Drafting and Electrical/Electronics CAD/CADD."
+    },
+    {
+      "cip": "15.1306",
+      "title_from_pdf": "Mechanical Drafting and Mechanical Drafting CAD/CADD."
+    },
+    {
+      "cip": "15.1399",
+      "title_from_pdf": "Drafting/Design Engineering Technologies/Technicians, Other."
+    },
+    {
+      "cip": "15.1401",
+      "title_from_pdf": "Nuclear Engineering Technology/Technician."
+    },
+    {
+      "cip": "15.1501",
+      "title_from_pdf": "Engineering/Industrial Management."
+    },
+    {
+      "cip": "15.1502",
+      "title_from_pdf": "Engineering Design."
+    },
+    {
+      "cip": "15.1503",
+      "title_from_pdf": "Packaging Science."
+    },
+    {
+      "cip": "15.1599",
+      "title_from_pdf": "Engineering-Related Fields, Other."
+    },
+    {
+      "cip": "15.1601",
+      "title_from_pdf": "Nanotechnology."
+    },
+    {
+      "cip": "15.1701",
+      "title_from_pdf": "Energy Systems Technology/Technician."
+    },
+    {
+      "cip": "15.1703",
+      "title_from_pdf": "Solar Energy Technology/Technician."
+    },
+    {
+      "cip": "15.9999",
+      "title_from_pdf": "Engineering/Engineering-Related Technologies/Technicians, Other."
+    },
+    {
+      "cip": "26.0000",
+      "title_from_pdf": "BIOLOGICAL AND BIOMEDICAL SCIENCES."
+    },
+    {
+      "cip": "26.0100",
+      "title_from_pdf": "Biology, General."
+    },
+    {
+      "cip": "26.0101",
+      "title_from_pdf": "Biology/Biological Sciences, General."
+    },
+    {
+      "cip": "26.0102",
+      "title_from_pdf": "Biomedical Sciences, General."
+    },
+    {
+      "cip": "26.0200",
+      "title_from_pdf": "Biochemistry, Biophysics and Molecular Biology."
+    },
+    {
+      "cip": "26.0202",
+      "title_from_pdf": "Biochemistry."
+    },
+    {
+      "cip": "26.0203",
+      "title_from_pdf": "Biophysics."
+    },
+    {
+      "cip": "26.0204",
+      "title_from_pdf": "Molecular Biology."
+    },
+    {
+      "cip": "26.0205",
+      "title_from_pdf": "Molecular Biochemistry."
+    },
+    {
+      "cip": "26.0206",
+      "title_from_pdf": "Molecular Biophysics."
+    },
+    {
+      "cip": "26.0207",
+      "title_from_pdf": "Structural Biology."
+    },
+    {
+      "cip": "26.0208",
+      "title_from_pdf": "Photobiology."
+    },
+    {
+      "cip": "26.0209",
+      "title_from_pdf": "Radiation Biology/Radiobiology."
+    },
+    {
+      "cip": "26.0210",
+      "title_from_pdf": "Biochemistry and Molecular Biology."
+    },
+    {
+      "cip": "26.0299",
+      "title_from_pdf": "Biochemistry, Biophysics and Molecular Biology, Other."
+    },
+    {
+      "cip": "26.0300",
+      "title_from_pdf": "Botany/Plant Biology."
+    },
+    {
+      "cip": "26.0301",
+      "title_from_pdf": "Botany/Plant Biology."
+    },
+    {
+      "cip": "26.0305",
+      "title_from_pdf": "Plant Pathology/Phytopathology."
+    },
+    {
+      "cip": "26.0307",
+      "title_from_pdf": "Plant Physiology."
+    },
+    {
+      "cip": "26.0308",
+      "title_from_pdf": "Plant Molecular Biology."
+    },
+    {
+      "cip": "26.0399",
+      "title_from_pdf": "Botany/Plant Biology, Other."
+    },
+    {
+      "cip": "26.0400",
+      "title_from_pdf": "Cell/Cellular Biology and Anatomical Sciences."
+    },
+    {
+      "cip": "26.0401",
+      "title_from_pdf": "Cell/Cellular Biology and Histology."
+    },
+    {
+      "cip": "26.0403",
+      "title_from_pdf": "Anatomy."
+    },
+    {
+      "cip": "26.0404",
+      "title_from_pdf": "Developmental Biology and Embryology."
+    },
+    {
+      "cip": "26.0406",
+      "title_from_pdf": "Cell/Cellular and Molecular Biology."
+    },
+    {
+      "cip": "26.0407",
+      "title_from_pdf": "Cell Biology and Anatomy."
+    },
+    {
+      "cip": "26.0499",
+      "title_from_pdf": "Cell/Cellular Biology and Anatomical Sciences, Other."
+    },
+    {
+      "cip": "26.0500",
+      "title_from_pdf": "Microbiological Sciences and Immunology."
+    },
+    {
+      "cip": "26.0502",
+      "title_from_pdf": "Microbiology, General."
+    },
+    {
+      "cip": "26.0503",
+      "title_from_pdf": "Medical Microbiology and Bacteriology."
+    },
+    {
+      "cip": "26.0504",
+      "title_from_pdf": "Virology."
+    },
+    {
+      "cip": "26.0505",
+      "title_from_pdf": "Parasitology."
+    },
+    {
+      "cip": "26.0506",
+      "title_from_pdf": "Mycology."
+    },
+    {
+      "cip": "26.0507",
+      "title_from_pdf": "Immunology."
+    },
+    {
+      "cip": "26.0508",
+      "title_from_pdf": "Microbiology and Immunology."
+    },
+    {
+      "cip": "26.0509",
+      "title_from_pdf": "Infectious Disease and Global Health."
+    },
+    {
+      "cip": "26.0599",
+      "title_from_pdf": "Microbiological Sciences and Immunology, Other."
+    },
+    {
+      "cip": "26.0700",
+      "title_from_pdf": "Zoology/Animal Biology."
+    },
+    {
+      "cip": "26.0701",
+      "title_from_pdf": "Zoology/Animal Biology."
+    },
+    {
+      "cip": "26.0702",
+      "title_from_pdf": "Entomology."
+    },
+    {
+      "cip": "26.0707",
+      "title_from_pdf": "Animal Physiology."
+    },
+    {
+      "cip": "26.0708",
+      "title_from_pdf": "Animal Behavior and Ethology."
+    },
+    {
+      "cip": "26.0709",
+      "title_from_pdf": "Wildlife Biology."
+    },
+    {
+      "cip": "26.0799",
+      "title_from_pdf": "Zoology/Animal Biology, Other."
+    },
+    {
+      "cip": "26.0800",
+      "title_from_pdf": "Genetics."
+    },
+    {
+      "cip": "26.0801",
+      "title_from_pdf": "Genetics, General."
+    },
+    {
+      "cip": "26.0802",
+      "title_from_pdf": "Molecular Genetics."
+    },
+    {
+      "cip": "26.0803",
+      "title_from_pdf": "Microbial and Eukaryotic Genetics."
+    },
+    {
+      "cip": "26.0804",
+      "title_from_pdf": "Animal Genetics."
+    },
+    {
+      "cip": "26.0805",
+      "title_from_pdf": "Plant Genetics."
+    },
+    {
+      "cip": "26.0806",
+      "title_from_pdf": "Human/Medical Genetics."
+    },
+    {
+      "cip": "26.0807",
+      "title_from_pdf": "Genome Sciences/Genomics."
+    },
+    {
+      "cip": "26.0899",
+      "title_from_pdf": "Genetics, Other."
+    },
+    {
+      "cip": "26.0900",
+      "title_from_pdf": "Physiology, Pathology and Related Sciences."
+    },
+    {
+      "cip": "26.0901",
+      "title_from_pdf": "Physiology, General."
+    },
+    {
+      "cip": "26.0902",
+      "title_from_pdf": "Molecular Physiology."
+    },
+    {
+      "cip": "26.0903",
+      "title_from_pdf": "Cell Physiology."
+    },
+    {
+      "cip": "26.0904",
+      "title_from_pdf": "Endocrinology."
+    },
+    {
+      "cip": "26.0905",
+      "title_from_pdf": "Reproductive Biology."
+    },
+    {
+      "cip": "26.0907",
+      "title_from_pdf": "Cardiovascular Science."
+    },
+    {
+      "cip": "26.0908",
+      "title_from_pdf": "Exercise Physiology and Kinesiology."
+    },
+    {
+      "cip": "26.0909",
+      "title_from_pdf": "Vision Science/Physiological Optics."
+    },
+    {
+      "cip": "26.0910",
+      "title_from_pdf": "Pathology/Experimental Pathology."
+    },
+    {
+      "cip": "26.0911",
+      "title_from_pdf": "Oncology and Cancer Biology."
+    },
+    {
+      "cip": "26.0912",
+      "title_from_pdf": "Aerospace Physiology and Medicine."
+    },
+    {
+      "cip": "26.0913",
+      "title_from_pdf": "Biomechanics."
+    },
+    {
+      "cip": "26.0999",
+      "title_from_pdf": "Physiology, Pathology, and Related Sciences, Other."
+    },
+    {
+      "cip": "26.1000",
+      "title_from_pdf": "Pharmacology and Toxicology."
+    },
+    {
+      "cip": "26.1001",
+      "title_from_pdf": "Pharmacology."
+    },
+    {
+      "cip": "26.1002",
+      "title_from_pdf": "Molecular Pharmacology."
+    },
+    {
+      "cip": "26.1003",
+      "title_from_pdf": "Neuropharmacology."
+    },
+    {
+      "cip": "26.1004",
+      "title_from_pdf": "Toxicology."
+    },
+    {
+      "cip": "26.1005",
+      "title_from_pdf": "Molecular Toxicology."
+    },
+    {
+      "cip": "26.1006",
+      "title_from_pdf": "Environmental Toxicology."
+    },
+    {
+      "cip": "26.1007",
+      "title_from_pdf": "Pharmacology and Toxicology."
+    },
+    {
+      "cip": "26.1099",
+      "title_from_pdf": "Pharmacology and Toxicology, Other."
+    },
+    {
+      "cip": "26.1100",
+      "title_from_pdf": "Biomathematics, Bioinformatics, and Computational Biology."
+    },
+    {
+      "cip": "26.1101",
+      "title_from_pdf": "Biometry/Biometrics."
+    },
+    {
+      "cip": "26.1102",
+      "title_from_pdf": "Biostatistics."
+    },
+    {
+      "cip": "26.1103",
+      "title_from_pdf": "Bioinformatics."
+    },
+    {
+      "cip": "26.1104",
+      "title_from_pdf": "Computational Biology."
+    },
+    {
+      "cip": "26.1199",
+      "title_from_pdf": "Biomathematics, Bioinformatics, and Computational Biology, Other."
+    },
+    {
+      "cip": "26.1200",
+      "title_from_pdf": "Biotechnology."
+    },
+    {
+      "cip": "26.1201",
+      "title_from_pdf": "Biotechnology."
+    },
+    {
+      "cip": "26.1300",
+      "title_from_pdf": "Ecology, Evolution, Systematics, and Population Biology."
+    },
+    {
+      "cip": "26.1301",
+      "title_from_pdf": "Ecology."
+    },
+    {
+      "cip": "26.1302",
+      "title_from_pdf": "Marine Biology and Biological Oceanography."
+    },
+    {
+      "cip": "26.1303",
+      "title_from_pdf": "Evolutionary Biology."
+    },
+    {
+      "cip": "26.1304",
+      "title_from_pdf": "Aquatic Biology/Limnology."
+    },
+    {
+      "cip": "26.1305",
+      "title_from_pdf": "Environmental Biology."
+    },
+    {
+      "cip": "26.1306",
+      "title_from_pdf": "Population Biology."
+    },
+    {
+      "cip": "26.1307",
+      "title_from_pdf": "Conservation Biology."
+    },
+    {
+      "cip": "26.1308",
+      "title_from_pdf": "Systematic Biology/Biological Systematics."
+    },
+    {
+      "cip": "26.1309",
+      "title_from_pdf": "Epidemiology."
+    },
+    {
+      "cip": "26.1310",
+      "title_from_pdf": "Ecology and Evolutionary Biology."
+    },
+    {
+      "cip": "26.1311",
+      "title_from_pdf": "Epidemiology and Biostatistics."
+    },
+    {
+      "cip": "26.1399",
+      "title_from_pdf": "Ecology, Evolution, Systematics and Population Biology, Other."
+    },
+    {
+      "cip": "26.1400",
+      "title_from_pdf": "Molecular Medicine."
+    },
+    {
+      "cip": "26.1401",
+      "title_from_pdf": "Molecular Medicine."
+    },
+    {
+      "cip": "26.1500",
+      "title_from_pdf": "Neurobiology and Neurosciences."
+    },
+    {
+      "cip": "26.1501",
+      "title_from_pdf": "Neuroscience."
+    },
+    {
+      "cip": "26.1502",
+      "title_from_pdf": "Neuroanatomy."
+    },
+    {
+      "cip": "26.1503",
+      "title_from_pdf": "Neurobiology and Anatomy."
+    },
+    {
+      "cip": "26.1504",
+      "title_from_pdf": "Neurobiology and Behavior."
+    },
+    {
+      "cip": "26.1599",
+      "title_from_pdf": "Neurobiology and Neurosciences, Other."
+    },
+    {
+      "cip": "26.9900",
+      "title_from_pdf": "Biological and Biomedical Sciences, Other."
+    },
+    {
+      "cip": "26.9999",
+      "title_from_pdf": "Biological and Biomedical Sciences, Other."
+    },
+    {
+      "cip": "27.0000",
+      "title_from_pdf": "MATHEMATICS AND STATISTICS."
+    },
+    {
+      "cip": "27.0100",
+      "title_from_pdf": "Mathematics."
+    },
+    {
+      "cip": "27.0101",
+      "title_from_pdf": "Mathematics, General."
+    },
+    {
+      "cip": "27.0102",
+      "title_from_pdf": "Algebra and Number Theory."
+    },
+    {
+      "cip": "27.0103",
+      "title_from_pdf": "Analysis and Functional Analysis."
+    },
+    {
+      "cip": "27.0104",
+      "title_from_pdf": "Geometry/Geometric Analysis."
+    },
+    {
+      "cip": "27.0105",
+      "title_from_pdf": "Topology and Foundations."
+    },
+    {
+      "cip": "27.0199",
+      "title_from_pdf": "Mathematics, Other."
+    },
+    {
+      "cip": "27.0300",
+      "title_from_pdf": "Applied Mathematics."
+    },
+    {
+      "cip": "27.0301",
+      "title_from_pdf": "Applied Mathematics, General."
+    },
+    {
+      "cip": "27.0303",
+      "title_from_pdf": "Computational Mathematics."
+    },
+    {
+      "cip": "27.0304",
+      "title_from_pdf": "Computational and Applied Mathematics."
+    },
+    {
+      "cip": "27.0305",
+      "title_from_pdf": "Financial Mathematics."
+    },
+    {
+      "cip": "27.0306",
+      "title_from_pdf": "Mathematical Biology."
+    },
+    {
+      "cip": "27.0399",
+      "title_from_pdf": "Applied Mathematics, Other."
+    },
+    {
+      "cip": "27.0500",
+      "title_from_pdf": "Statistics."
+    },
+    {
+      "cip": "27.0501",
+      "title_from_pdf": "Statistics, General."
+    },
+    {
+      "cip": "27.0502",
+      "title_from_pdf": "Mathematical Statistics and Probability."
+    },
+    {
+      "cip": "27.0503",
+      "title_from_pdf": "Mathematics and Statistics."
+    },
+    {
+      "cip": "27.0599",
+      "title_from_pdf": "Statistics, Other."
+    },
+    {
+      "cip": "27.0600",
+      "title_from_pdf": "Applied Statistics."
+    },
+    {
+      "cip": "27.0601",
+      "title_from_pdf": "Applied Statistics, General."
+    },
+    {
+      "cip": "27.9900",
+      "title_from_pdf": "Mathematics and Statistics, Other."
+    },
+    {
+      "cip": "27.9999",
+      "title_from_pdf": "Mathematics and Statistics, Other."
+    },
+    {
+      "cip": "28.0501",
+      "title_from_pdf": "Air Science/Airpower Studies."
+    },
+    {
+      "cip": "28.0502",
+      "title_from_pdf": "Air and Space Operational Art and Science."
+    },
+    {
+      "cip": "28.0505",
+      "title_from_pdf": "Naval Science and Operational Studies."
+    },
+    {
+      "cip": "29.0201",
+      "title_from_pdf": "Intelligence, General."
+    },
+    {
+      "cip": "29.0202",
+      "title_from_pdf": "Strategic Intelligence."
+    },
+    {
+      "cip": "29.0203",
+      "title_from_pdf": "Signal/Geospatial Intelligence."
+    },
+    {
+      "cip": "29.0204",
+      "title_from_pdf": "Command & Control (C3, C4I) Systems and Operations."
+    },
+    {
+      "cip": "29.0205",
+      "title_from_pdf": "Information Operations/Joint Information Operations."
+    },
+    {
+      "cip": "29.0206",
+      "title_from_pdf": "Information/Psychological Warfare and Military Media Relations."
+    },
+    {
+      "cip": "29.0207",
+      "title_from_pdf": "Cyber/Electronic Operations and Warfare."
+    },
+    {
+      "cip": "29.0299",
+      "title_from_pdf": "Intelligence, Command Control and Information Operations, Other."
+    },
+    {
+      "cip": "29.0301",
+      "title_from_pdf": "Combat Systems Engineering."
+    },
+    {
+      "cip": "29.0302",
+      "title_from_pdf": "Directed Energy Systems."
+    },
+    {
+      "cip": "29.0303",
+      "title_from_pdf": "Engineering Acoustics."
+    },
+    {
+      "cip": "29.0304",
+      "title_from_pdf": "Low-Observables and Stealth Technology."
+    },
+    {
+      "cip": "29.0305",
+      "title_from_pdf": "Space Systems Operations."
+    },
+    {
+      "cip": "29.0306",
+      "title_from_pdf": "Operational Oceanography."
+    },
+    {
+      "cip": "29.0307",
+      "title_from_pdf": "Undersea Warfare."
+    },
+    {
+      "cip": "29.0399",
+      "title_from_pdf": "Military Applied Sciences, Other."
+    },
+    {
+      "cip": "29.0401",
+      "title_from_pdf": "Aerospace Ground Equipment Technology."
+    },
+    {
+      "cip": "29.0402",
+      "title_from_pdf": "Air and Space Operations Technology."
+    },
+    {
+      "cip": "29.0403",
+      "title_from_pdf": "Aircraft Armament Systems Technology."
+    },
+    {
+      "cip": "29.0404",
+      "title_from_pdf": "Explosive Ordinance/Bomb Disposal."
+    },
+    {
+      "cip": "29.0405",
+      "title_from_pdf": "Joint Command/Task Force (C3, C4I) Systems."
+    },
+    {
+      "cip": "29.0406",
+      "title_from_pdf": "Military Information Systems Technology."
+    },
+    {
+      "cip": "29.0407",
+      "title_from_pdf": "Missile and Space Systems Technology."
+    },
+    {
+      "cip": "29.0408",
+      "title_from_pdf": "Munitions Systems/Ordinance Technology."
+    },
+    {
+      "cip": "29.0409",
+      "title_from_pdf": "Radar Communications and Systems Technology."
+    },
+    {
+      "cip": "29.0499",
+      "title_from_pdf": "Military Systems and Maintenance Technology, Other."
+    },
+    {
+      "cip": "29.9999",
+      "title_from_pdf": "Military Technologies and Applied Sciences, Other."
+    },
+    {
+      "cip": "30.0101",
+      "title_from_pdf": "Biological and Physical Sciences."
+    },
+    {
+      "cip": "30.0601",
+      "title_from_pdf": "Systems Science and Theory."
+    },
+    {
+      "cip": "30.0801",
+      "title_from_pdf": "Mathematics and Computer Science."
+    },
+    {
+      "cip": "30.1001",
+      "title_from_pdf": "Biopsychology."
+    },
+    {
+      "cip": "30.1701",
+      "title_from_pdf": "Behavioral Sciences."
+    },
+    {
+      "cip": "30.1801",
+      "title_from_pdf": "Natural Sciences."
+    },
+    {
+      "cip": "30.1901",
+      "title_from_pdf": "Nutrition Sciences."
+    },
+    {
+      "cip": "30.2501",
+      "title_from_pdf": "Cognitive Science, General."
+    },
+    {
+      "cip": "30.2701",
+      "title_from_pdf": "Human Biology."
+    },
+    {
+      "cip": "30.3001",
+      "title_from_pdf": "Computational Science."
+    },
+    {
+      "cip": "30.3101",
+      "title_from_pdf": "Human Computer Interaction."
+    },
+    {
+      "cip": "30.3201",
+      "title_from_pdf": "Marine Sciences."
+    },
+    {
+      "cip": "30.3301",
+      "title_from_pdf": "Sustainability Studies."
+    },
+    {
+      "cip": "30.3401",
+      "title_from_pdf": "Anthrozoology."
+    },
+    {
+      "cip": "30.3501",
+      "title_from_pdf": "Climate Science."
+    },
+    {
+      "cip": "30.3801",
+      "title_from_pdf": "Earth Systems Science."
+    },
+    {
+      "cip": "30.3901",
+      "title_from_pdf": "Economics and Computer Science."
+    },
+    {
+      "cip": "30.4101",
+      "title_from_pdf": "Environmental Geosciences."
+    },
+    {
+      "cip": "30.4301",
+      "title_from_pdf": "Geobiology."
+    },
+    {
+      "cip": "30.4401",
+      "title_from_pdf": "Geography and Environmental Studies."
+    },
+    {
+      "cip": "30.4801",
+      "title_from_pdf": "Linguistics and Computer Science"
+    },
+    {
+      "cip": "30.4901",
+      "title_from_pdf": "Mathematical Economics."
+    },
+    {
+      "cip": "30.5001",
+      "title_from_pdf": "Mathematics and Atmospheric/Oceanic Science."
+    },
+    {
+      "cip": "30.7001",
+      "title_from_pdf": "Data Science, General."
+    },
+    {
+      "cip": "30.7101",
+      "title_from_pdf": "Data Analytics, General."
+    },
+    {
+      "cip": "30.7102",
+      "title_from_pdf": "Business Analytics."
+    },
+    {
+      "cip": "30.7103",
+      "title_from_pdf": "Data Visualization."
+    },
+    {
+      "cip": "30.7104",
+      "title_from_pdf": "Financial Analytics."
+    },
+    {
+      "cip": "30.7199",
+      "title_from_pdf": "Data Analytics, Other."
+    },
+    {
+      "cip": "40.0000",
+      "title_from_pdf": "PHYSICAL SCIENCES."
+    },
+    {
+      "cip": "40.0100",
+      "title_from_pdf": "Physical Sciences, General."
+    },
+    {
+      "cip": "40.0101",
+      "title_from_pdf": "Physical Sciences, General."
+    },
+    {
+      "cip": "40.0200",
+      "title_from_pdf": "Astronomy and Astrophysics."
+    },
+    {
+      "cip": "40.0201",
+      "title_from_pdf": "Astronomy."
+    },
+    {
+      "cip": "40.0202",
+      "title_from_pdf": "Astrophysics."
+    },
+    {
+      "cip": "40.0203",
+      "title_from_pdf": "Planetary Astronomy and Science."
+    },
+    {
+      "cip": "40.0299",
+      "title_from_pdf": "Astronomy and Astrophysics, Other."
+    },
+    {
+      "cip": "40.0400",
+      "title_from_pdf": "Atmospheric Sciences and Meteorology."
+    },
+    {
+      "cip": "40.0401",
+      "title_from_pdf": "Atmospheric Sciences and Meteorology, General."
+    },
+    {
+      "cip": "40.0402",
+      "title_from_pdf": "Atmospheric Chemistry and Climatology."
+    },
+    {
+      "cip": "40.0403",
+      "title_from_pdf": "Atmospheric Physics and Dynamics."
+    },
+    {
+      "cip": "40.0404",
+      "title_from_pdf": "Meteorology."
+    },
+    {
+      "cip": "40.0499",
+      "title_from_pdf": "Atmospheric Sciences and Meteorology, Other."
+    },
+    {
+      "cip": "40.0500",
+      "title_from_pdf": "Chemistry."
+    },
+    {
+      "cip": "40.0501",
+      "title_from_pdf": "Chemistry, General."
+    },
+    {
+      "cip": "40.0502",
+      "title_from_pdf": "Analytical Chemistry."
+    },
+    {
+      "cip": "40.0503",
+      "title_from_pdf": "Inorganic Chemistry."
+    },
+    {
+      "cip": "40.0504",
+      "title_from_pdf": "Organic Chemistry."
+    },
+    {
+      "cip": "40.0506",
+      "title_from_pdf": "Physical Chemistry."
+    },
+    {
+      "cip": "40.0507",
+      "title_from_pdf": "Polymer Chemistry."
+    },
+    {
+      "cip": "40.0508",
+      "title_from_pdf": "Chemical Physics."
+    },
+    {
+      "cip": "40.0509",
+      "title_from_pdf": "Environmental Chemistry."
+    },
+    {
+      "cip": "40.0510",
+      "title_from_pdf": "Forensic Chemistry."
+    },
+    {
+      "cip": "40.0511",
+      "title_from_pdf": "Theoretical Chemistry."
+    },
+    {
+      "cip": "40.0512",
+      "title_from_pdf": "Cheminformatics/Chemistry Informatics."
+    },
+    {
+      "cip": "40.0599",
+      "title_from_pdf": "Chemistry, Other."
+    },
+    {
+      "cip": "40.0600",
+      "title_from_pdf": "Geological and Earth Sciences/Geosciences."
+    },
+    {
+      "cip": "40.0601",
+      "title_from_pdf": "Geology/Earth Science, General."
+    },
+    {
+      "cip": "40.0602",
+      "title_from_pdf": "Geochemistry."
+    },
+    {
+      "cip": "40.0603",
+      "title_from_pdf": "Geophysics and Seismology."
+    },
+    {
+      "cip": "40.0604",
+      "title_from_pdf": "Paleontology."
+    },
+    {
+      "cip": "40.0605",
+      "title_from_pdf": "Hydrology and Water Resources Science."
+    },
+    {
+      "cip": "40.0606",
+      "title_from_pdf": "Geochemistry and Petrology."
+    },
+    {
+      "cip": "40.0607",
+      "title_from_pdf": "Oceanography, Chemical and Physical."
+    },
+    {
+      "cip": "40.0699",
+      "title_from_pdf": "Geological and Earth Sciences/Geosciences, Other."
+    },
+    {
+      "cip": "40.0800",
+      "title_from_pdf": "Physics."
+    },
+    {
+      "cip": "40.0801",
+      "title_from_pdf": "Physics, General."
+    },
+    {
+      "cip": "40.0802",
+      "title_from_pdf": "Atomic/Molecular Physics."
+    },
+    {
+      "cip": "40.0804",
+      "title_from_pdf": "Elementary Particle Physics."
+    },
+    {
+      "cip": "40.0805",
+      "title_from_pdf": "Plasma and High-Temperature Physics."
+    },
+    {
+      "cip": "40.0806",
+      "title_from_pdf": "Nuclear Physics."
+    },
+    {
+      "cip": "40.0807",
+      "title_from_pdf": "Optics/Optical Sciences."
+    },
+    {
+      "cip": "40.0808",
+      "title_from_pdf": "Condensed Matter and Materials Physics."
+    },
+    {
+      "cip": "40.0809",
+      "title_from_pdf": "Acoustics."
+    },
+    {
+      "cip": "40.0810",
+      "title_from_pdf": "Theoretical and Mathematical Physics."
+    },
+    {
+      "cip": "40.0899",
+      "title_from_pdf": "Physics, Other."
+    },
+    {
+      "cip": "40.1000",
+      "title_from_pdf": "Materials Sciences."
+    },
+    {
+      "cip": "40.1001",
+      "title_from_pdf": "Materials Science."
+    },
+    {
+      "cip": "40.1002",
+      "title_from_pdf": "Materials Chemistry."
+    },
+    {
+      "cip": "40.1099",
+      "title_from_pdf": "Materials Sciences, Other."
+    },
+    {
+      "cip": "40.1100",
+      "title_from_pdf": "Physics and Astronomy."
+    },
+    {
+      "cip": "40.1101",
+      "title_from_pdf": "Physics and Astronomy."
+    },
+    {
+      "cip": "40.9900",
+      "title_from_pdf": "Physical Sciences, Other."
+    },
+    {
+      "cip": "40.9999",
+      "title_from_pdf": "Physical Sciences, Other."
+    },
+    {
+      "cip": "41.0000",
+      "title_from_pdf": "Science Technologies/Technicians, General."
+    },
+    {
+      "cip": "41.0101",
+      "title_from_pdf": "Biology/Biotechnology Technology/Technician."
+    },
+    {
+      "cip": "41.0204",
+      "title_from_pdf": "Industrial Radiologic Technology/Technician."
+    },
+    {
+      "cip": "41.0205",
+      "title_from_pdf": "Nuclear/Nuclear Power Technology/Technician."
+    },
+    {
+      "cip": "41.0299",
+      "title_from_pdf": "Nuclear and Industrial Radiologic Technologies/Technicians, Other."
+    },
+    {
+      "cip": "41.0301",
+      "title_from_pdf": "Chemical Technology/Technician."
+    },
+    {
+      "cip": "41.0303",
+      "title_from_pdf": "Chemical Process Technology."
+    },
+    {
+      "cip": "41.0399",
+      "title_from_pdf": "Physical Science Technologies/Technicians, Other."
+    },
+    {
+      "cip": "41.9999",
+      "title_from_pdf": "Science Technologies/Technicians, Other."
+    },
+    {
+      "cip": "42.2701",
+      "title_from_pdf": "Cognitive Psychology and Psycholinguistics."
+    },
+    {
+      "cip": "42.2702",
+      "title_from_pdf": "Comparative Psychology."
+    },
+    {
+      "cip": "42.2703",
+      "title_from_pdf": "Developmental and Child Psychology."
+    },
+    {
+      "cip": "42.2704",
+      "title_from_pdf": "Experimental Psychology."
+    },
+    {
+      "cip": "42.2705",
+      "title_from_pdf": "Personality Psychology."
+    },
+    {
+      "cip": "42.2706",
+      "title_from_pdf": "Behavioral Neuroscience."
+    },
+    {
+      "cip": "42.2707",
+      "title_from_pdf": "Social Psychology."
+    },
+    {
+      "cip": "42.2708",
+      "title_from_pdf": "Psychometrics and Quantitative Psychology."
+    },
+    {
+      "cip": "42.2709",
+      "title_from_pdf": "Psychopharmacology."
+    },
+    {
+      "cip": "42.2710",
+      "title_from_pdf": "Developmental and Adolescent Psychology."
+    },
+    {
+      "cip": "42.2799",
+      "title_from_pdf": "Research and Experimental Psychology, Other."
+    },
+    {
+      "cip": "42.2804",
+      "title_from_pdf": "Industrial and Organizational Psychology."
+    },
+    {
+      "cip": "43.0403",
+      "title_from_pdf": "Cyber/Computer Forensics and Counterterrorism."
+    },
+    {
+      "cip": "43.0406",
+      "title_from_pdf": "Forensic Science and Technology."
+    },
+    {
+      "cip": "43.0407",
+      "title_from_pdf": "Geospatial Intelligence."
+    },
+    {
+      "cip": "45.0102",
+      "title_from_pdf": "Social Sciences, Research Methodology and Quantitative Methods."
+    },
+    {
+      "cip": "45.0301",
+      "title_from_pdf": "Archeology."
+    },
+    {
+      "cip": "45.0501",
+      "title_from_pdf": "Demography and Population Studies."
+    },
+    {
+      "cip": "45.0603",
+      "title_from_pdf": "Econometrics and Quantitative Economics."
+    },
+    {
+      "cip": "45.0702",
+      "title_from_pdf": "Geographic Information Science and Cartography."
+    },
+    {
+      "cip": "49.0101",
+      "title_from_pdf": "Aeronautics/Aviation/Aerospace Science and Technology, General."
+    },
+    {
+      "cip": "51.1002",
+      "title_from_pdf": "Cytotechnology/Cytotechnologist."
+    },
+    {
+      "cip": "51.1005",
+      "title_from_pdf": "Clinical Laboratory Science/Medical Technology/Technologist."
+    },
+    {
+      "cip": "51.1401",
+      "title_from_pdf": "Medical Science/Scientist."
+    },
+    {
+      "cip": "51.2003",
+      "title_from_pdf": "Pharmaceutics and Drug Design."
+    },
+    {
+      "cip": "51.2004",
+      "title_from_pdf": "Medicinal and Pharmaceutical Chemistry."
+    },
+    {
+      "cip": "51.2005",
+      "title_from_pdf": "Natural Products Chemistry and Pharmacognosy."
+    },
+    {
+      "cip": "51.2006",
+      "title_from_pdf": "Clinical and Industrial Drug Development."
+    },
+    {
+      "cip": "51.2007",
+      "title_from_pdf": "Pharmacoeconomics/Pharmaceutical Economics."
+    },
+    {
+      "cip": "51.2009",
+      "title_from_pdf": "Industrial and Physical Pharmacy and Cosmetic Sciences."
+    },
+    {
+      "cip": "51.2010",
+      "title_from_pdf": "Pharmaceutical Sciences."
+    },
+    {
+      "cip": "51.2202",
+      "title_from_pdf": "Environmental Health."
+    },
+    {
+      "cip": "51.2205",
+      "title_from_pdf": "Health/Medical Physics."
+    },
+    {
+      "cip": "51.2706",
+      "title_from_pdf": "Medical Informatics."
+    },
+    {
+      "cip": "52.1301",
+      "title_from_pdf": "Management Science."
+    },
+    {
+      "cip": "52.1302",
+      "title_from_pdf": "Business Statistics."
+    },
+    {
+      "cip": "52.1304",
+      "title_from_pdf": "Actuarial Science."
+    },
+    {
+      "cip": "52.1399",
+      "title_from_pdf": "Management Sciences and Quantitative Methods, Other."
+    }
+  ],
+  "record_count": 540
+}
