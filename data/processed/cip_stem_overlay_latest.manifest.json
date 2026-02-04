@@ -1,7 +1,7 @@
 {
   "file": "data/processed/cip_stem_overlay_latest.json",
-  "sha256": "388ec35c2cdab5511cdbbc3d48048d2c37c230a5a99f9507f5d55d2ed31d7ec8",
-  "bytes": 1876020,
-  "generated_utc": "2026-02-04T03:49:25.769985+00:00",
+  "sha256": "44acf2e315e147c044f72ed9a6263d820818bdf5fb1f4c052ea0703f54c3b4af",
+  "bytes": 1961936,
+  "generated_utc": "2026-02-04T04:22:59.059686+00:00",
   "missing_stem_in_nces_snapshot": 74
 }

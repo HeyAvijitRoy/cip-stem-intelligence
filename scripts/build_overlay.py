@@ -8,10 +8,9 @@
 #   - data/raw/dhs/stem-list-latest.manifest.json
 # - Merges to produce:
 #   - data/processed/cip_stem_overlay_latest.json
-# - Output record includes:
-#   - cip, title, definition, action, illustrative_examples
-#   - stemEligible (bool)
-#   - stemSource metadata (pdf url/hash + build timestamp)
+# - Enhancements (Patch):
+#   - If a DHS STEM CIP code is missing from the current NCES snapshot,
+#     we still include it and fall back to DHS "title_from_pdf" for title.
 # =========================================
 
 from __future__ import annotations
@@ -57,12 +56,19 @@ def main() -> None:
         if cip:
             nces_by_cip[cip] = r
 
-    # DHS STEM set
+    # DHS STEM set + DHS title fallback map
     stem_set = set()
+    dhs_title_by_cip: Dict[str, str] = {}
     for r in dhs_records:
         cip = (r.get("cip") or "").strip()
+        title = (r.get("title_from_pdf") or "").strip()
+
         if cip:
             stem_set.add(cip)
+
+        # Keep the first non-empty title encountered
+        if cip and title and cip not in dhs_title_by_cip:
+            dhs_title_by_cip[cip] = title
 
     # Build overlay (NCES as the base)
     overlay_records: List[Dict[str, Any]] = []
@@ -77,6 +83,7 @@ def main() -> None:
                 "illustrative_examples": r.get("illustrative_examples", []),
                 "stemEligible": cip in stem_set,
                 "ncesSourceUrl": r.get("source_url", ""),
+                "titleSource": "NCES",
             }
         )
 
@@ -87,13 +94,14 @@ def main() -> None:
             {
                 "cip": cip,
                 "cipYear": 2020,
-                "title": "",
+                "title": dhs_title_by_cip.get(cip, ""),
                 "definition": "",
                 "action": "",
                 "illustrative_examples": [],
                 "stemEligible": True,
                 "ncesSourceUrl": "",
                 "missingInNcesSnapshot": True,
+                "titleSource": "DHS PDF (fallback)",
             }
         )
 
